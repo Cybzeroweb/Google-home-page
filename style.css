@@ -1,0 +1,16 @@
+body 
+  h4 {
+    color: blue;
+  }
+  h4 {
+    color: red;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  h5{
+      color: grey;
+  }
